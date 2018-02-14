@@ -12,7 +12,7 @@ font_path = 'C:\\Windows\\Fonts\\CALIFB.TTF'
 number = 4
 #生成验证码图片的高度和宽度
 size = (129,53)
-#背景颜色，默认为白色
+#背景颜色，默认为白色。
 bgcolor = (255,255,0)
 #字体颜色，默认为蓝色
 fontcolor = (0,0,0)
