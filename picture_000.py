@@ -7,7 +7,7 @@ import matplotlib.pyplot as plt
 import matplotlib.font_manager as fm
 from mpl_toolkits.mplot3d import Axes3D
 
-# 解决中文乱码问题
+# 解决中文乱码问题，
 myfont = fm.FontProperties(fname="C:\\Windows\\Fonts\\STXINWEI.TTF", size=14)
 matplotlib.rcParams["axes.unicode_minus"] = False
 
