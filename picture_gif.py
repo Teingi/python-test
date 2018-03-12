@@ -169,4 +169,4 @@ def three_dimension_scatter():
     # 图形显示
     plt.show()
     return
-# three_dimension_scatter()
+three_dimension_scatter()
