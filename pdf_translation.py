@@ -86,6 +86,6 @@ def _main(pdf_path, txt_path):
 
 
 if __name__ == '__main__':
-    appid = 20180318000137338    #填入你的 appid ，为int类型
-    key = 'ujST11hlWSEqs1IrujC9'      #填入你的 key ，为str类型
+    appid = xxxxxx    #填入你的 appid ，为int类型
+    key = 'xxxxxxx'      #填入你的 key ，为str类型
     _main('E:\\code\\1.pdf', 'E:\\code\\1.txt')  #填入 pdf 路径与翻译完毕之后的 txt 路径
