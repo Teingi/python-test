@@ -2,9 +2,9 @@
 
 #coding: utf-8
 #第 0002 题：将 0001 题生成的 200 个激活码（或者优惠券）保存到 MySQL 关系型数据库中。
-from random import choice
-import string
-import pymysql.cursors
+# from random import choice
+# import string
+import pymysql
 
 #随机生成一个字符串
 """
@@ -65,7 +65,7 @@ except:
  
 # 关闭数据库连接
 db.close()
-"""
+
 
 
 def get_code(dict, length, count):
@@ -101,4 +101,40 @@ if __name__ == "__main__":
     if length == "":
         length = "8"
     get_code(dict, length, count)
+
+"""
+import random
+import string
+
+def generateCode(n):  
+    r=[]  
+    s=string.digits+string.ascii_letters 
+    for i in range(200):  
+        t=''  
+        for j in range(n):  
+            t+=random.choice(s)  
+        r.append(t)  
+    return r  
+ 
+Host='localhost'  
+User='root'  
+Password="123456"  
+Port=3306  
+DB='python_db'  
+conn = pymysql.connect(user='root', passwd='123456', db='python_db', use_unicode=True)  
+cur=conn.cursor()
+# 使用 execute() 方法执行 SQL，如果表存在则删除
+cur.execute("DROP TABLE IF EXISTS GENCODE")
+
+# 使用预处理语句创建表
+sql_new = "CREATE TABLE GENCODE(id int,code char(8))"
+
+cur.execute(sql_new)
+r=generateCode(8)  
+for i in range(200):  
+    sql='INSERT INTO GENCODE(id,code) VALUES (%d,\'%s\');' % (i+1,r[i])  
+    cur.execute(sql)  
+conn.commit()  
+cur.close()  
+conn.close()  
 
