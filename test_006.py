@@ -12,15 +12,38 @@ for filter_word in open('E:\\code\\python\\filtered_words.txt'):
 else:
     print(user_input)
 
-    '''
+
 #! /usr/bin/env python
 #! -*- coding: utf-8 -*-
 
-__author__ = 'Sophie'
 
 import re
+file = open("E:\\code\\python\\filtered_words.txt","r")
+list_key_word =[]
+try:
+    list_key_word = file.readlines()
+finally:
+    file.close()
+for i in range(len(list_key_word)):
+    list_key_word[i]=list_key_word[i].strip(" \n")
+while(True):
+    userinput = input("Please input something.\n")
+    result = ""
+    for x in list_key_word:
+        #result = userinput.replace(x,"*")
+        result = re.sub(x,"*",userinput)
+        userinput = result
+    print(result)
+    continue_or_not = input("Do you want continue? Please input y/n. Any other inputs will be taken as y.\n")
+    if continue_or_not.lower() == 'n':
+        break
 
-if __name__ == '__main__':
+# if __name__ == '__main__':
+'''
+import re
+
+
+def change_input():
     file = open("E:\\code\\python\\filtered_words.txt","r")
     list_key_word =[]
     try:
@@ -30,16 +53,21 @@ if __name__ == '__main__':
     for i in range(len(list_key_word)):
         list_key_word[i]=list_key_word[i].strip(" \n")
     while(True):
-        userinput = raw_input("Please input something.\n")
+        userinput = input("Please input something.\n")
+
+        # with open("E:\\code\\0.txt","r") as userinput:
+        # result = userinput.read()
         result = ""
         for x in list_key_word:
             #result = userinput.replace(x,"*")
             result = re.sub(x,"*",userinput)
             userinput = result
-        print(result)
-        continue_or_not = raw_input("Do you want continue? Please input y/n. Any other inputs will be taken as y.\n")
+        #print(result)
+        with open("E:\\code\\1.txt","a") as f:
+            print(result,file = f)
+        continue_or_not = input("Do you want continue? Please input y/n. Any other inputs will be taken as y.\n")
         if continue_or_not.lower() == 'n':
             break
-    
+change_input()
 
 
