@@ -19,7 +19,7 @@ python学习记录
 		16、weixinhuifu.py——————微信自动回复天气
 		17、xlsfile.py——————xls文件提取
 		18、yanzhengma——————验证码生成
-		19、Tcpserver.py和Tcpclient.py是配套的，前者负责开启交互服务，后者传值并返回对应的时间戳
+		19、Tcpserver.py和Tcpclient.py是配套的，前者负责开启交互服务，后者传值并返回对应的时间戳。
 
 python练习题
 =================================		
