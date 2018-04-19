@@ -34,3 +34,5 @@ python练习题
 		test_008————txt文件先转成json格式再存储到excel中
 		test_009————将一张图片填充为正方形后切为9张图
 		test_010————使用 Python 对密码加密。阅读资料：http://zhuoqiang.me/password-storage-and-python-example.html
+		test_011————FTP服务
+		test_012————写个捉迷藏的游戏来具体介绍线程threading.Condition的基本使用
