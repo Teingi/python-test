@@ -36,3 +36,4 @@ python练习题
 		test_010————使用 Python 对密码加密。阅读资料：http://zhuoqiang.me/password-storage-and-python-example.html
 		test_011————FTP服务
 		test_012————写个捉迷藏的游戏来具体介绍线程threading.Condition的基本使用
+		test_013————通过Event来实现两个或多个线程间的交互，下面是一个红绿灯的例子，即起动一个线程做交通指挥灯，生成几个线程做车辆，车辆行驶按红灯停，绿灯行的规则。
