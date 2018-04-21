@@ -21,6 +21,7 @@ python学习记录
 		18、yanzhengma——————验证码生成
 		19、Tcpserver.py和Tcpclient.py是配套的，前者负责开启交互服务，后者传值并返回对应的时间戳。
 		20、thread_lock.py————Python3入门之线程threading常用方法
+		21、wechat.py————微信小提示(1)自动提醒群红包(2)自动监测被撤回消息(3)群关键字提醒，群被@提醒
 
 python练习题
 =================================		
