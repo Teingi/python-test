@@ -23,6 +23,8 @@ python学习记录
 		20、thread_lock.py————Python3入门之线程threading常用方法
 		21、wechat.py————微信小提示(1)自动提醒群红包(2)自动监测被撤回消息(3)群关键字提醒，群被@提醒
 		22、weixinpachong.py————爬取微信好友信息，获取性别比例和地理分布并绘制词云
+		23、courier.py————request模块通过模拟用户访问web网站实现输入运单号码查询快递
+		24、picture_dolphin.py————matplotlib绘制海豚图形
 
 python练习题
 =================================		
