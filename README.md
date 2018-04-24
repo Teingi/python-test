@@ -25,6 +25,7 @@ python学习记录
 		22、weixinpachong.py————爬取微信好友信息，获取性别比例和地理分布并绘制词云
 		23、courier.py————request模块通过模拟用户访问web网站实现输入运单号码查询快递
 		24、picture_dolphin.py————matplotlib绘制海豚图形
+		25、guess_num.py————猜数字游戏
 
 python练习题
 =================================		
