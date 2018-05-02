@@ -26,6 +26,7 @@ python学习记录
 		23、courier.py————request模块通过模拟用户访问web网站实现输入运单号码查询快递
 		24、picture_dolphin.py————matplotlib绘制海豚图形
 		25、guess_num.py————猜数字游戏
+		
 
 python练习题
 =================================		
@@ -42,3 +43,4 @@ python练习题
 		test_011————FTP服务
 		test_012————写个捉迷藏的游戏来具体介绍线程threading.Condition的基本使用
 		test_013————通过Event来实现两个或多个线程间的交互，下面是一个红绿灯的例子，即起动一个线程做交通指挥灯，生成几个线程做车辆，车辆行驶按红灯停，绿灯行的规则。
+		test_014————对深度神经网络的权值矩阵进行的贴砖可视化。参考资料：http://www.cnblogs.com/Allen-rg/p/7767033.html
