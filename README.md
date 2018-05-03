@@ -26,6 +26,7 @@ python学习记录
 		23、courier.py————request模块通过模拟用户访问web网站实现输入运单号码查询快递
 		24、picture_dolphin.py————matplotlib绘制海豚图形
 		25、guess_num.py————猜数字游戏
+		26、thread_multiprocess.py————IO密集型任务、计算密集型任务，以及多线程、多进程
 		
 
 python练习题
