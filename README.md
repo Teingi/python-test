@@ -27,6 +27,7 @@ python学习记录
 		24、picture_dolphin.py————matplotlib绘制海豚图形
 		25、guess_num.py————猜数字游戏
 		26、thread_multiprocess.py————IO密集型任务、计算密集型任务，以及多线程、多进程
+		27、digui_lim.py————递归调用深度受限问题
 		
 
 python练习题
