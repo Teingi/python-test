@@ -1,15 +1,16 @@
 #python默认的递归深度是很有限的，大概是900多的样子，当递归深度超过这个值的时候，就会引发这样的一个异常。
 #解决的方式是手工设置递归调用深度，方式为
-import sys   
-sys.setrecursionlimit(1000000) #例如这里设置为一百万
+#import sys   
+#sys.setrecursionlimit(1000000) #例如这里设置为一百万
 
 
 
 def recursion(n):
     print("递归次数:",(1000-n))
     if(n <= 0): 
-        return 
-    recursion(n - 1) 
+        return
+    else:
+        recursion(n-1) 
 
 if __name__ == "__main__":
     recursion(1000)
