@@ -28,6 +28,7 @@ python学习记录
 		25、guess_num.py————猜数字游戏
 		26、thread_multiprocess.py————IO密集型任务、计算密集型任务，以及多线程、多进程
 		27、digui_lim.py————递归调用深度受限问题
+		28、python_view.py————使用matplotlib实践数据可视化
 		
 
 python练习题
