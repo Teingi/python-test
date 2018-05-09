@@ -4,19 +4,19 @@ import numpy as np
 
 
 # Load our dataset
-from sklearn.datasets import load_iris
+from sklearn.datasets import load_iris#scikit-learn库内置著名的Iris植物分类数据集了，可直接导入。
 #X, y = np.loadtxt("X_classification.txt"), np.loadtxt("y_classification.txt")
 dataset = load_iris()
 X = dataset.data
 y = dataset.target
-print(dataset.DESCR)
+print(dataset.DESCR)#查看数据集，大概了解一下，包括特征的说明
 n_samples, n_features = X.shape
 
 
 # Compute the mean for each attribute
-attribute_means = X.mean(axis=0)
+attribute_means = X.mean(axis=0)#把某项特征的阈值设定为该特征所有特征值的均值
 assert attribute_means.shape == (n_features,)
-X_d = np.array(X >= attribute_means, dtype='int')
+X_d = np.array(X >= attribute_means, dtype='int')#将数据集打散，把连续的特征值转换为类别型
 
 
 # Now, we split into a training and test set
