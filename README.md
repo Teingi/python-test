@@ -30,6 +30,7 @@ python学习记录
 		27、digui_lim.py————递归调用深度受限问题
 		28、python_view.py————使用matplotlib实践数据可视化
 		29、python_12306.py————12306自动抢火车票软件
+		30、python_time.py————各种格式的日期时间转换格式
 		
 
 python练习题
