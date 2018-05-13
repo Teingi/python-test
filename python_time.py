@@ -36,7 +36,7 @@ struct_time = time.strptime("2016-11-15, 15:32:12, 2", "%Y-%m-%d, %H:%M:%S, %w")
 a_datetime_local = datetime.datetime.now()                      # 获取datetime.datetime类型的本地时间
 a_datetime_utc = datetime.datetime.utcnow()                     # 获取datetime.datetime类型的utc时间
 
-#print(a_datetime_local.strftime("%Y-%m-%d, %H:%M:%S, %w"))      # datetime.datetime类型转字符串
+print(a_datetime_local.strftime("%Y-%m-%d, %H:%M:%S, %w"))      # datetime.datetime类型转字符串
 #print(a_datetime_utc.strftime("%Y-%m-%d, %H:%M:%S, %w"))        # datetime.datetime类型转字符串
 
 a_datetime = datetime.datetime.strptime("2016-11-15, 15:32:12, 2", "%Y-%m-%d, %H:%M:%S, %w")    # 字符串转datetime.datetime格式
