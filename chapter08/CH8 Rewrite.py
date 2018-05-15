@@ -155,4 +155,30 @@ predictions = trainer.testOnClassData(dataset=testing)
 from sklearn.metrics import f1_score
 print("F-score: {0:.2f}".format(f1_score(predictions,y_test.argmax(axis=1),average='micro')))
 
+from sklearn.metrics import classification_report
+print(classification_report(y_test.argmax(axis=1), predictions))
 
+
+##################################预测单词#####################################################
+#定义一个函数，接收验证码，用神经网络进行训练，返回单词预测结果
+
+def predict_captcha(captcha_image, neural_network):
+    #使用前面定义的图像切割函数segment_image抽取小图像
+    subimages = segment_image(captcha_image)
+    predicted_word = ""
+    for subimage in subimages:
+        #每张小图像不太可能正好是20像素见方。调整大小后，才能用神经网络处理
+        subimage = resize(subimage, (20, 20))
+        #把小图像数据传入神经网络的输入层，激活神经网络
+        outputs = net.activate(subimage.flatten())
+        prediction = np.argmax(outputs)
+        #把上面得到的字母添加到正在预测的单词中
+        predicted_word += letters[prediction]
+        #循环结束后，我们就已经找到了单词的各个字母，将其拼接成单词，最后返回这个单词
+    return predicted_word
+    #可以使用下面代码来做下测试
+word = "GENE"
+captcha = create_captcha(word, shear=0.2)
+print(predict_captcha(captcha, net))
+    
+        
