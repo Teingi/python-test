@@ -180,5 +180,50 @@ def predict_captcha(captcha_image, neural_network):
 word = "GENE"
 captcha = create_captcha(word, shear=0.2)
 print(predict_captcha(captcha, net))
-    
+
+
+#下述函数返回结果依次为预测结果是否正确、验证码中的单词和预测结果的前四个字符。
+def test_prediction(word, net, shear=0.2):
+    captcha = create_captcha(word, shear=shear)
+    prediction = predict_captcha(captcha, net)
+    prediction = prediction[:4]
+    return word == prediction, word, prediction
+
+
+from nltk.corpus import words
+valid_words = [word.upper() for word in words.words() if len(word) == 4]
+
+
+
+num_correct = 0
+num_incorrect = 0
+for word in valid_words:
+    correct, word, prediction = test_prediction(word, net, shear=0.2)
+    if correct:
+        num_correct += 1
+    else:
+        num_incorrect += 1
+
+
+print("Number correct is {0}".format(num_correct))
+print("Number incorrect is {0}".format(num_incorrect))
+
+
+#把经常识别错误的字母统计出来，用二维混淆矩阵来表示
+#矩阵的每一项表示一个类别（行对应的类）被错误识别为另一个类别（列对应的类）的次数
+from sklearn.metrics import confusion_matrix
+cm = confusion_matrix(np.argmax(y_test, axis=1), predictions)
+
+#理想情况下，混淆矩阵应该只有处于对角线的项(i,i)值不为零，其余各项的值均为零
+#用pyplot做成图，哪些字母容易混淆就一目了然，代码如下
+plt.figure(figsize=(10, 10))
+plt.imshow(cm)
+
+#下面代码中的tick_marks表示刻度，在坐标轴上标出每个字母，便于理解
+tick_marks = np.arange(len(letters))
+plt.xticks(tick_marks, letters)
+plt.yticks(tick_marks, letters)
+plt.ylabel('Actual')
+plt.xlabel('Predicted')
+plt.show()
         
