@@ -18,7 +18,7 @@ def create_captcha(text, shear=0, size=(100, 24)):
 
 #生成验证码图像并显示它
 from matplotlib import pyplot as plt
-image = create_captcha("ABCDE", shear=0.5)
+image = create_captcha("ABCD", shear=0.5)
 implot = plt.imshow(image, cmap='gray')
 plt.show()
 
