@@ -49,7 +49,7 @@ for i in range(len(subimages)):
 plt.show()
 
 
-############################创建训练集#############################################
+############################创建训练集##########################
 from sklearn.utils import check_random_state
 random_state = check_random_state(14)
 letters = list("ACBDEFGHIJKLMNOPQRSTUVWXYZ")
