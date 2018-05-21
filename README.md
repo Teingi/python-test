@@ -37,6 +37,7 @@ python学习记录
 		29、python_12306.py————12306自动抢火车票软件
 		30、python_time.py————各种格式的日期时间转换格式
 		31、python_pig.py————"小猪佩奇身上纹,掌声送给社会人"
+		32、python_cat.py————蓝胖子绘图
 		
 
 python练习题
