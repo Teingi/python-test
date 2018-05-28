@@ -78,3 +78,7 @@ leetcode刷题
 		3、leetcode_020.py—————python编写给定一个只包括 '('，')'，'{'，'}'，'['，']' 的字符串，判断字符串是否有效。
 		4、leetcode_026.py—————python实现输入一组数字串，对这组数字串进行删重和排序
 		5、leetcode_027.py—————python实现给定一个数组 nums 和一个值 val，移除所有数值等于 val 的元素，返回移除后数组。
+		6、leetcode_028.py—————python实现strStr()
+		7、leetcode_035.py—————python搜索插入位置
+		8、leetcode_053.py—————python最大子序和
+		9、leetcode_058.py—————python返回最后一个单词的长度
