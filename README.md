@@ -76,7 +76,7 @@ leetcode刷题
 
 		1、leetcode_013.py—————python实现罗马数字转换成阿拉伯数字
 		2、leetcode_014.py—————python编写一个函数来查找字符串数组中的最长公共前缀。
-		3、leetcode_020.py—————python编写给定一个只包括 '('，')'，'{'，'}'，'['，']' 的字符串，判断字符串是否有效。
+		3、leetcode_020.py—————python编写给定一个只包括 '('，')'，'{'，'}'，'['，']' 的字符串，判断字符串是否有效
 		4、leetcode_026.py—————python实现输入一组数字串，对这组数字串进行删重和排序
 		5、leetcode_027.py—————python实现给定一个数组 nums 和一个值 val，移除所有数值等于 val 的元素，返回移除后数组
 		6、leetcode_028.py—————python实现strStr()
