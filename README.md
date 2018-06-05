@@ -84,5 +84,5 @@ leetcode刷题
 		8、leetcode_053.py—————python求最大子序和
 		9、leetcode_058.py—————python返回最后一个单词的长度
 		10、leetcode_070.py—————python计算爬楼梯种树，斐波那契数列
-		11、leetcode_118.py—————python打印杨辉三角
+		11、leetcode_118.py—————python运用递归思想打印杨辉三角
 		12、leetcode_121.py—————python求买卖股票的最佳时机
