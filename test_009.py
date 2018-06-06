@@ -11,7 +11,7 @@ def fill_image(image):
     width, height = image.size
     #选取长和宽中较大值作为新图片的
     new_image_length = width if width > height else height
-    #生成新图片[白底]
+    #生成新图片
     new_image = Image.new(image.mode, (new_image_length, new_image_length), color='white')
     #将之前的图粘贴在新图上，居中
     if width > height:#原图宽大于高，则填充图片的竖直维度
