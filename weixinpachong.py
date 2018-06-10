@@ -24,8 +24,6 @@ import numpy as np
 
 # ## 登录方法调用
 
-# In[2]:
-
 
 # 调用itchat的登录方法获取登录二维码，实现扫码登录
 itchat.login()
