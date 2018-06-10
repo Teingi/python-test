@@ -6,10 +6,9 @@
 # - 添加jieba中文分词
 # - 添加wordcloud云词绘图
 
-# In[13]:
 
 
-#-*- coding: utf-8 -*-
+
 import itchat
 import matplotlib.pyplot as plt
 import pandas as pd
