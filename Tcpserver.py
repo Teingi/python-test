@@ -1,6 +1,5 @@
 #---coding:utf-8
 #创建tcp服务器
-
 from socket import *
 from time import ctime
 
