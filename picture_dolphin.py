@@ -6,6 +6,7 @@ from matplotlib.path import Path
 from matplotlib.transforms import Affine2D
 import numpy as np
 
+
 # Fixing random state for reproducibility
 np.random.seed(19680801)
 
