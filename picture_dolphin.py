@@ -9,7 +9,6 @@ import numpy as np
 # Fixing random state for reproducibility
 np.random.seed(19680801)
 
-
 r = np.random.rand(50)
 t = np.random.rand(50) * np.pi * 2.0
 x = r * np.cos(t)
