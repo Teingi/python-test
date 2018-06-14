@@ -27,6 +27,7 @@ def read_from_pdf(file_path):
         return_str.close()
         return content
 
+		
 def create_sign(q, appid, salt, key):
     '''
     制造签名
