@@ -8,7 +8,6 @@ import urllib.parse
 import http.cookiejar
 import datetime
 import time
-
 #为了防止ssl出现问题，你可以加上下面一行代码
 ssl._create_default_https_context = ssl._create_unverified_context
 #查票
