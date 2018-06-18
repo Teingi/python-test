@@ -39,6 +39,7 @@ python学习记录
 		31、python_pig.py————取代PS系列："小猪佩奇身上纹,掌声送给社会人"
 		32、python_cat.py————取代PS系列：蓝胖子绘图
 		33、python_American.py————取代PS系列：绘制美国队长盾牌
+		34、python_keshihua.py————python数据可视化
 		
 
 python练习题
