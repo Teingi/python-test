@@ -15,7 +15,6 @@ data_guangzhou = [
     ["广州", "杭州"]
 ]
 
-
 style_geo = style.add(
     is_label_show=True,
     line_curve=0.2,
