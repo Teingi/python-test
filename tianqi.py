@@ -23,6 +23,7 @@ Help="""
 """
 itchat.send(Help,toUserName='filehelper')
 @itchat.msg_register(itchat.content.TEXT)
+
 def getcity(msg):
     if msg['ToUserName'] != 'filehelper': return
     print(msg['Text'])
