@@ -17,6 +17,7 @@ def getPM25(cityname):
     print('*' * 20 + ctime() + '*' * 20)
     return output
 itchat.auto_login(hotReload=True)
+
 Help="""
 友情提示：
 请输入城市拼音获取天气结果，如果无法识别，自动返回首都记录
