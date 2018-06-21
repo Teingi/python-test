@@ -23,7 +23,6 @@ draw_line = True
 #加入干扰线条数的上下限
 line_number = (1,5)
 
-
 #用来随机生成一个字符串
 def gene_text():
     # source = list(string.letters)
