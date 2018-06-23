@@ -49,8 +49,7 @@ def run_1():
   
     file.save('E:\\code\\student.xls')  
   
-  
-  
+   
 def run_2():  
     with open('E:\\code\\city.txt','r') as f:  
         content = f.read()  
