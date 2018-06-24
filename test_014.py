@@ -6,6 +6,7 @@ def normalize(darr, eps=1e-8):
     darr *= 1./(darr.max()+eps)
     return darr
  
+ 
 def tile_raster_images(X, image_shape, tile_shape,
             tile_spacing=(0, 0), normalize_rows=True, output_pixel_vals=True):
             # image_shape：每一个砖的高和宽，
