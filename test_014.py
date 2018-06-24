@@ -1,4 +1,5 @@
 # -*- coding: utf-8 -*-
+
 def normalize(darr, eps=1e-8):
     # normalize(x) = (x-min)/(max-min)
     darr -= darr.min()
