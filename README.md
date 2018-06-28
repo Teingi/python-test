@@ -91,3 +91,4 @@ leetcode刷题
 		11、leetcode_118.py—————python运用递归思想打印杨辉三角
 		12、leetcode_121.py—————python求买卖股票的最佳时机
 		13、leetcode_263.py—————python编写一个程序判断给定的数是否为丑数，丑数就是只包含质因数 2, 3, 5 的正整数
+		14、leetcode_290.py—————python编写一个实现字符串模式匹配
