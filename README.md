@@ -92,3 +92,4 @@ leetcode刷题
 		12、leetcode_121.py—————python求买卖股票的最佳时机
 		13、leetcode_263.py—————python编写一个程序判断给定的数是否为丑数，丑数就是只包含质因数 2, 3, 5 的正整数
 		14、leetcode_290.py—————python编写一个实现字符串模式匹配
+		15、leetcode_326.py—————python编写一个程序解决给定一个整数，判断它是否是 3 的幂次方。
