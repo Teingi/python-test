@@ -94,3 +94,4 @@ leetcode刷题
 		14、leetcode_290.py—————python编写一个实现字符串模式匹配
 		15、leetcode_326.py—————python编写一个程序解决给定一个整数，判断它是否是 3 的幂次方。
 		16、leetcode_345.py—————python编写一个函数，以字符串作为输入，反转该字符串中的元音字母。
+		17、leetcode_349.py—————python编写一个函数，给定两个数组，计算它们的交集。
