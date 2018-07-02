@@ -96,3 +96,5 @@ leetcode刷题
 		16、leetcode_345.py—————python编写一个函数，以字符串作为输入，反转该字符串中的元音字母。
 		17、leetcode_349.py—————python编写一个函数，给定两个数组，计算它们的交集。
 		18、leetcode_367.py—————python编写一个函数判断有效的完全平方数
+		19、leetcode_383.py—————python编写一个函数解读赎金信
+		19、leetcode_401.py—————python编写一个函数输出二进制手表的所有可能情况
