@@ -98,3 +98,4 @@ leetcode刷题
 		18、leetcode_367.py—————python编写一个函数判断有效的完全平方数
 		19、leetcode_383.py—————python编写一个函数解读赎金信
 		20、leetcode_401.py—————python编写一个函数输出二进制手表的所有可能情况
+		21、leetcode_405.py—————python编写一个函数将数字转换为十六进制数
