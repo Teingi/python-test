@@ -100,7 +100,7 @@ leetcode刷题
 		20、leetcode_401.py—————python编写一个函数输出二进制手表的所有可能情况
 		21、leetcode_405.py—————python编写一个函数将数字转换为十六进制数
 		22、leetcode_409.py—————python编写一个函数返回最长回文串长度
-		23、leetcode_415.py—————python编写一个计算给定两个字符串形式的非负整数 num1 和num2 ，计算它们的和。
+		23、leetcode_415.py—————python编写一个计算给定两个字符串形式的非负整数 num1 和num2 ，计算它们的和
 		24、leetcode_443.py—————python编写一个函数压缩字符串
 		25、leetcode_453.py—————python编写一个函数使得最小移动次数使数组元素相等
 		
