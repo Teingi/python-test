@@ -103,4 +103,5 @@ leetcode刷题
 		23、leetcode_415.py—————python编写一个计算给定两个字符串形式的非负整数 num1 和num2 ，计算它们的和
 		24、leetcode_443.py—————python编写一个函数压缩字符串
 		25、leetcode_453.py—————python编写一个函数使得最小移动次数使数组元素相等；
+		26、leetcode_475.py—————python编写一个函数求供暖器半径；
 		
