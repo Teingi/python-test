@@ -106,4 +106,7 @@ leetcode刷题
 		26、leetcode_475.py—————python编写一个函数求供暖器半径；
 		27、leetcode_482.py—————python编写一个函数密钥格式化；
 		28、leetcode_485.py—————python编写一个函数：给定一个二进制数组， 计算其中最大连续1的个数；
-		
+		29、leetcode_492.py—————python编写一个函数返回给定面积的长方形长宽
+		30、leetcode_496.py—————python编写一个函数两个数组中"下一个更大元素"
+		31、leetcode_500.py—————python编写一个函数解决给定一个单词列表，只返回可以使用在键盘同一行的字母打印出来的单词。
+		32、leetcode_504.py—————python编写一个函数变换十进制数为7进制数
