@@ -110,3 +110,10 @@ leetcode刷题
 		30、leetcode_496.py—————python编写一个函数两个数组中"下一个更大元素"
 		31、leetcode_500.py—————python编写一个函数解决给定一个单词列表，只返回可以使用在键盘同一行的字母打印出来的单词。
 		32、leetcode_504.py—————python编写一个函数变换十进制数为7进制数
+		33、leetcode_507.py—————python编写一个函数给定一个 正整数 n， 如果他是完美数，返回 True，否则返回 False
+		34、leetcode_520.py—————python编写一个函数检测大写字母书写是否规范
+		35、leetcode_521.py—————python编写一个函数求最长特殊序列 Ⅰ
+		36、leetcode_532.py—————python编写一个函数求数组中的K-diff数对
+		37、leetcode_538.py—————python编写一个函数把二叉搜索树转换为累加树
+		38、leetcode_541.py—————python编写一个函数反转字符串
+		39、leetcode_543.py—————python编写一个函数求二叉树的直径
