@@ -117,3 +117,17 @@ leetcode刷题
 		37、leetcode_538.py—————python编写一个函数把二叉搜索树转换为累加树
 		38、leetcode_541.py—————python编写一个函数反转字符串
 		39、leetcode_543.py—————python编写一个函数求二叉树的直径
+		40、leetcode_551.py—————python编写一个函数求学生出勤纪录 I
+		41、leetcode_557.py—————python编写一个函数反转字符串中的单词 III
+		42、leetcode_561.py—————python编写一个函数实现数组拆分 I
+		43、leetcode_566.py—————python编写一个函数重塑矩阵
+		44、leetcode_572.py—————python编写一个函数另一个树的子树
+		45、leetcode_575.py—————python编写一个函数分糖果
+		45、leetcode_581.py—————python编写一个函数求最短无序连续子数组
+		46、leetcode_594.py—————python编写一个函数求最长和谐子序列
+		47、leetcode_598.py—————python编写一个函数返回矩阵中含有最大整数的元素个数
+		48、leetcode_605.py—————python编写一个函数求种花问题
+		49、leetcode_606.py—————python编写一个函数根据二叉树创建字符串
+		50、leetcode_617.py—————python编写一个函数合并二叉树
+		51、leetcode_628.py—————python编写一个函数求三个数的最大乘积
+		
