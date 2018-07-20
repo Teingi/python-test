@@ -130,4 +130,5 @@ leetcode刷题
 		49、leetcode_606.py—————python编写一个函数根据二叉树创建字符串
 		50、leetcode_617.py—————python编写一个函数合并二叉树
 		51、leetcode_628.py—————python编写一个函数求三个数的最大乘积
+		52、leetcode_633.py—————python编写一个函数求平方数之和
 		
