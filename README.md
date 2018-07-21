@@ -131,4 +131,12 @@ leetcode刷题
 		50、leetcode_617.py—————python编写一个函数合并二叉树
 		51、leetcode_628.py—————python编写一个函数求三个数的最大乘积
 		52、leetcode_633.py—————python编写一个函数求平方数之和
+		53、leetcode_643.py—————python编写一个函数求子数组最大平均数 I
+		54、leetcode_645.py—————python编写一个函数求错误的集合
+		55、leetcode_653.py—————python编写一个函数求两数之和 IV - 输入 BST
+		56、leetcode_661.py—————python编写一个函数解决图片平滑器问题
+		57、leetcode_671.py—————python编写一个函数求二叉树中第二小的节点
+		58、leetcode_674.py—————python编写一个函数求最长连续递增序列
+		59、leetcode_680.py—————python编写一个函数求给定一个非空字符串 s，最多删除一个字符。判断是否能成为回文字符串。
+		60、leetcode_682.py—————python编写一个函数求棒球比赛的得分
 		
