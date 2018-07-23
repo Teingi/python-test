@@ -1,41 +1,17 @@
-# -*- coding:UTF-8 -*-
+#leetcode 14. 最长公共前缀
 
-'''
-编写一个函数来查找字符串数组中的最长公共前缀。
-
-如果不存在公共前缀，返回空字符串 ""。
-
-'''
-
-string_add = input("输入字符串，以空格切分:")
-string = string_add.split(' ')
-# print(string)
-
-#匹配最长相同字符
-def longestCommonPrefix(strs):
-    if len(strs)==0:
-        return ''
-        
-    elif len(strs)==1:
-        return strs[0]
-    else:
-        b=sorted(strs,key=lambda x:len(x))
-        s=''
-        s1=b[0]
-        for i,v in enumerate(s1):
-            l = []
-            for j in b[1:]:
-                l.append(v==j[i])
-            if all(l):
-                s+=v
+class Solution(object):
+    def longestCommonPrefix(self, strs):
+        """
+        :type strs: List[str]
+        :rtype: str
+        """
+        res = ""
+        if len(strs) == 0:
+            return ""
+        for each in zip(*strs):#zip()函数用于将可迭代对象作为参数，将对象中对应的元素打包成一个个元组，然后返回由这些元组组成的列表
+            if len(set(each)) == 1:#利用集合创建一个无序不重复元素集
+                res += each[0]
             else:
-                break
-        return s
-
-
-
-st = longestCommonPrefix(string)
-if st == '':
-    print("没有匹配选项！！")
-else:
-    print("最长匹配字符为：",st)
+                return res
+        return res
