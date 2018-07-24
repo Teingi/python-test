@@ -91,7 +91,13 @@ leetcode刷题
 		leetcode_067.py—————python编写一个函数二进制求和
 		leetcode_069.py—————python编写一个函数求x的平方根
 		leetcode_070.py—————python编写一个函数计算爬楼梯种树，斐波那契数列
+		leetcode_083.py—————python编写一个函数删除排序链表中的重复元素
+		leetcode_088.py—————python编写一个函数合并两个有序数组
 		leetcode_118.py—————python编写一个函数运用递归思想打印杨辉三角
+		leetcode_101.py—————python编写一个函数判断是否对称二叉树
+		leetcode_104.py—————python编写一个函数求二叉树深度
+		leetcode_107.py—————python编写一个函数二叉树的层次遍历 II
+		leetcode_108.py—————python编写一个函数二叉树将有序数组转换为二叉搜索树
 		leetcode_121.py—————python编写一个函数求买卖股票的最佳时机
 		leetcode_263.py—————python编写一个函数判断给定的数是否为丑数，丑数就是只包含质因数 2, 3, 5 的正整数
 		leetcode_290.py—————python编写一个函数实现字符串模式匹配
