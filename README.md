@@ -105,7 +105,12 @@ leetcode刷题
 		leetcode_122.py—————python编写一个函数求买卖股票的最佳时机Ⅱ
 		leetcode_125.py—————python编写一个函数 验证回文串
 		leetcode_141.py—————python编写一个函数判断环形链表
+		leetcode_160.py—————python编写一个函数找到两个单链表相交的起始节点
+		leetcode_167.py—————python编写一个函数求两数之和 II - 输入有序数组
+		leetcode_168.py—————python编写一个函数求Excel表列名称
 		leetcode_169.py—————python编写一个函数求众数
+		leetcode_171.py—————python编写一个函数Excel表列序号
+		leetcode_189.py—————python编写一个函数旋转数组
 		leetcode_263.py—————python编写一个函数判断给定的数是否为丑数，丑数就是只包含质因数 2, 3, 5 的正整数
 		leetcode_290.py—————python编写一个函数实现字符串模式匹配
 		leetcode_326.py—————python编写一个函数解决给定一个整数，判断它是否是 3 的幂次方。
