@@ -111,6 +111,12 @@ leetcode刷题
 		leetcode_169.py—————python编写一个函数求众数
 		leetcode_171.py—————python编写一个函数Excel表列序号
 		leetcode_189.py—————python编写一个函数旋转数组
+		leetcode_190.py—————python编写一个函数颠倒二进制位
+		leetcode_191.py—————python编写一个函数求位1的个数
+		leetcode_202.py—————python编写一个函数求快乐数
+		leetcode_203.py—————python编写一个函数删除链表中的节点
+		leetcode_204.py—————python编写一个函数计数质数
+		leetcode_205.py—————python编写一个函数判断同构字符串
 		leetcode_263.py—————python编写一个函数判断给定的数是否为丑数，丑数就是只包含质因数 2, 3, 5 的正整数
 		leetcode_290.py—————python编写一个函数实现字符串模式匹配
 		leetcode_326.py—————python编写一个函数解决给定一个整数，判断它是否是 3 的幂次方。
