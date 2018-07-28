@@ -117,7 +117,12 @@ leetcode刷题
 		leetcode_203.py—————python编写一个函数删除链表中的节点
 		leetcode_204.py—————python编写一个函数计数质数
 		leetcode_205.py—————python编写一个函数判断同构字符串
+		leetcode_206.py—————python编写一个函数反转链表
+		leetcode_219.py—————python编写一个函数判断存在重复元素 II
+		leetcode_231.py—————python编写一个函数判断判断一个整数是否是 2 的幂次方
+		leetcode_258.py—————python编写一个函数求各位相加
 		leetcode_263.py—————python编写一个函数判断给定的数是否为丑数，丑数就是只包含质因数 2, 3, 5 的正整数
+		leetcode_268.py—————python编写一个函数求缺失数字
 		leetcode_290.py—————python编写一个函数实现字符串模式匹配
 		leetcode_326.py—————python编写一个函数解决给定一个整数，判断它是否是 3 的幂次方。
 		leetcode_345.py—————python编写一个函数以字符串作为输入，反转该字符串中的元音字母。
