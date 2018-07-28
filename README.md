@@ -119,22 +119,27 @@ leetcode刷题
 		leetcode_205.py—————python编写一个函数判断同构字符串
 		leetcode_206.py—————python编写一个函数反转链表
 		leetcode_219.py—————python编写一个函数判断存在重复元素 II
+		leetcode_226.py—————python编写一个函数翻转二叉树
 		leetcode_231.py—————python编写一个函数判断判断一个整数是否是 2 的幂次方
 		leetcode_258.py—————python编写一个函数求各位相加
 		leetcode_263.py—————python编写一个函数判断给定的数是否为丑数，丑数就是只包含质因数 2, 3, 5 的正整数
 		leetcode_268.py—————python编写一个函数求缺失数字
+		leetcode_278.py—————python编写一个函数求第一个错误的版本
 		leetcode_290.py—————python编写一个函数实现字符串模式匹配
 		leetcode_326.py—————python编写一个函数解决给定一个整数，判断它是否是 3 的幂次方。
 		leetcode_345.py—————python编写一个函数以字符串作为输入，反转该字符串中的元音字母。
 		leetcode_349.py—————python编写一个函数给定两个数组，计算它们的交集。
 		leetcode_367.py—————python编写一个函数判断有效的完全平方数
+		leetcode_371.py—————python编写一个函数不使用运算符 + 和-，计算两整数a 、b之和
 		leetcode_383.py—————python编写一个函数解读赎金信
 		leetcode_401.py—————python编写一个函数输出二进制手表的所有可能情况
 		leetcode_405.py—————python编写一个函数将数字转换为十六进制数
 		leetcode_409.py—————python编写一个函数返回最长回文串长度
-		leetcode_415.py—————python编写一个计算给定两个字符串形式的非负整数 num1 和num2 ，计算它们的和
+		leetcode_415.py—————python编写一个函数计算给定两个字符串形式的非负整数 num1 和num2 ，计算它们的和
+		leetcode_438.py—————python编写一个函数找到字符串中所有字母异位词
 		leetcode_443.py—————python编写一个函数压缩字符串
 		leetcode_453.py—————python编写一个函数使得最小移动次数使数组元素相等；
+		leetcode_455.py—————python编写一个函数分发饼干
 		leetcode_475.py—————python编写一个函数求供暖器半径；
 		leetcode_482.py—————python编写一个函数密钥格式化；
 		leetcode_485.py—————python编写一个函数：给定一个二进制数组， 计算其中最大连续1的个数；
