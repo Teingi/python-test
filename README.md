@@ -41,6 +41,9 @@ python学习记录
 		32、python_cat.py————取代PS系列：蓝胖子绘图
 		33、python_American.py————取代PS系列：绘制美国队长盾牌
 		34、python_keshihua.py————python数据可视化
+		35、snowview.py————雪景艺术绘图
+		36、python_clock.py————时钟绘制
+		36、python_girl.py————python爬取并下载美女图片存到本地硬盘
 		
 
 python练习题
@@ -116,6 +119,7 @@ leetcode刷题
 		leetcode_168.py—————python编写一个函数求Excel表列名称
 		leetcode_169.py—————python编写一个函数求众数
 		leetcode_171.py—————python编写一个函数Excel表列序号
+		leetcode_172.py—————python编写一个函数求阶乘后的零
 		leetcode_189.py—————python编写一个函数旋转数组
 		leetcode_190.py—————python编写一个函数颠倒二进制位
 		leetcode_191.py—————python编写一个函数求位1的个数
@@ -169,6 +173,7 @@ leetcode刷题
 		leetcode_581.py—————python编写一个函数求最短无序连续子数组
 		leetcode_594.py—————python编写一个函数求最长和谐子序列
 		leetcode_598.py—————python编写一个函数返回矩阵中含有最大整数的元素个数
+		leetcode_599.py—————python编写一个函数返回两个列表的最小索引总和
 		leetcode_605.py—————python编写一个函数求种花问题
 		leetcode_606.py—————python编写一个函数根据二叉树创建字符串
 		leetcode_617.py—————python编写一个函数合并二叉树
