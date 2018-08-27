@@ -146,6 +146,7 @@ leetcode刷题
 		leetcode_405.py—————python编写一个函数将数字转换为十六进制数
 		leetcode_409.py—————python编写一个函数返回最长回文串长度
 		leetcode_415.py—————python编写一个函数计算给定两个字符串形式的非负整数 num1 和num2 ，计算它们的和
+		leetcode_429.py—————python编写一个函数求N叉树的层序遍历
 		leetcode_438.py—————python编写一个函数找到字符串中所有字母异位词
 		leetcode_443.py—————python编写一个函数压缩字符串
 		leetcode_453.py—————python编写一个函数使得最小移动次数使数组元素相等；
@@ -156,6 +157,7 @@ leetcode刷题
 		leetcode_492.py—————python编写一个函数返回给定面积的长方形长宽
 		leetcode_496.py—————python编写一个函数两个数组中"下一个更大元素"
 		leetcode_500.py—————python编写一个函数解决给定一个单词列表，只返回可以使用在键盘同一行的字母打印出来的单词。
+		leetcode_501.py—————python编写一个函数找出二叉搜索树中的众数
 		leetcode_504.py—————python编写一个函数变换十进制数为7进制数
 		leetcode_507.py—————python编写一个函数给定一个 正整数 n， 如果他是完美数，返回 True，否则返回 False
 		leetcode_520.py—————python编写一个函数检测大写字母书写是否规范
