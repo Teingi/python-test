@@ -174,6 +174,7 @@ leetcode刷题
 		leetcode_575.py—————python编写一个函数分糖果
 		leetcode_581.py—————python编写一个函数求最短无序连续子数组
 		leetcode_589.py—————python编写一个函数求N叉树的前序遍历
+		leetcode_590.py—————python编写一个函数求N叉树的后序遍历
 		leetcode_594.py—————python编写一个函数求最长和谐子序列
 		leetcode_598.py—————python编写一个函数返回矩阵中含有最大整数的元素个数
 		leetcode_599.py—————python编写一个函数返回两个列表的最小索引总和
