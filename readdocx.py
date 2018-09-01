@@ -2,7 +2,7 @@
 import docx
 #获取文档对象
 file=docx.Document("E:\\个人文件\\6-desktop\\唐张牵引界面修改问题汇总.docx")
-print("段落数:"+str(len(file.paragraphs)))#段落数为13，每个回车隔离一段
+print("段落数:"+str(len(file.paragraphs)))#段落数为13，每个回车隔离一段；
 
 #输出每一段的内容
 for para in file.paragraphs:
