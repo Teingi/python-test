@@ -87,6 +87,7 @@ leetcode刷题
 		leetcode_002.py—————python编写一个函数求两数相加
 		leetcode_003.py—————python编写一个函数求无重复字符的最长子串
 		leetcode_004.py—————python编写一个函数求两个排序数组的中位数
+		leetcode_005.py—————python编写一个函数求最长回文子串
 		leetcode_007.py—————python编写一个函数反转整数
 		leetcode_009.py—————python编写一个函数判断回文数
 		leetcode_013.py—————python编写一个函数实现罗马数字转换成阿拉伯数字
