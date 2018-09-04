@@ -93,6 +93,7 @@ leetcode刷题
 		leetcode_011.py—————python编写一个函数求盛最多水的容器
 		leetcode_013.py—————python编写一个函数实现罗马数字转换成阿拉伯数字
 		leetcode_014.py—————python编写一个函数来查找字符串数组中的最长公共前缀。
+		leetcode_015.py—————python编写一个函数来求三个数之和
 		leetcode_020.py—————python编写一个函数给定一个只包括 '('，')'，'{'，'}'，'['，']' 的字符串，判断字符串是否有效
 		leetcode_026.py—————python编写一个函数实现输入一组数字串，对这组数字串进行删重和排序
 		leetcode_027.py—————python编写一个函数实现给定一个数组 nums 和一个值 val，移除所有数值等于 val 的元素，返回移除后数组
