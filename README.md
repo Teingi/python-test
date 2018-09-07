@@ -95,10 +95,12 @@ leetcode刷题
 		leetcode_014.py—————python编写一个函数来查找字符串数组中的最长公共前缀。
 		leetcode_015.py—————python编写一个函数来求三个数之和
 		leetcode_016.py—————python编写一个函数来求最接近的三数之和
+		leetcode_018.py—————python编写一个函数来求四数之和
 		leetcode_020.py—————python编写一个函数给定一个只包括 '('，')'，'{'，'}'，'['，']' 的字符串，判断字符串是否有效
 		leetcode_026.py—————python编写一个函数实现输入一组数字串，对这组数字串进行删重和排序
 		leetcode_027.py—————python编写一个函数实现给定一个数组 nums 和一个值 val，移除所有数值等于 val 的元素，返回移除后数组
 		leetcode_028.py—————python编写一个函数实现strStr()
+		leetcode_031.py—————python编写一个函数求下一个排列
 		leetcode_035.py—————python编写一个函数搜索插入位置
 		leetcode_038.py—————python编写一个函数报数
 		leetcode_053.py—————python编写一个函数求最大子序和
