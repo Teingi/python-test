@@ -101,6 +101,7 @@ leetcode刷题
 		leetcode_027.py—————python编写一个函数实现给定一个数组 nums 和一个值 val，移除所有数值等于 val 的元素，返回移除后数组
 		leetcode_028.py—————python编写一个函数实现strStr()
 		leetcode_031.py—————python编写一个函数求下一个排列
+		leetcode_033.py—————python编写一个函数搜索旋转排序数组
 		leetcode_035.py—————python编写一个函数搜索插入位置
 		leetcode_038.py—————python编写一个函数报数
 		leetcode_053.py—————python编写一个函数求最大子序和
