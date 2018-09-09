@@ -102,8 +102,12 @@ leetcode刷题
 		leetcode_028.py—————python编写一个函数实现strStr()
 		leetcode_031.py—————python编写一个函数求下一个排列
 		leetcode_033.py—————python编写一个函数搜索旋转排序数组
+		leetcode_034.py—————python编写一个函数在排序数组中查找元素的第一个和最后一个位置
 		leetcode_035.py—————python编写一个函数搜索插入位置
 		leetcode_038.py—————python编写一个函数报数
+		leetcode_039.py—————python编写一个函数求组合总和
+		leetcode_040.py—————python编写一个函数求组合总和Ⅱ
+		leetcode_041.py—————python编写一个函数求缺失的第一个正数
 		leetcode_053.py—————python编写一个函数求最大子序和
 		leetcode_058.py—————python编写一个函数返回最后一个单词的长度
 		leetcode_067.py—————python编写一个函数二进制求和
@@ -159,6 +163,7 @@ leetcode刷题
 		leetcode_429.py—————python编写一个函数求N叉树的层序遍历
 		leetcode_438.py—————python编写一个函数找到字符串中所有字母异位词
 		leetcode_443.py—————python编写一个函数压缩字符串
+		leetcode_448.py—————python编写一个函数找到所有数组中消失的数字
 		leetcode_453.py—————python编写一个函数使得最小移动次数使数组元素相等；
 		leetcode_455.py—————python编写一个函数分发饼干
 		leetcode_475.py—————python编写一个函数求供暖器半径；
