@@ -171,7 +171,7 @@ leetcode刷题
 		leetcode_485.py—————python编写一个函数：给定一个二进制数组， 计算其中最大连续1的个数；
 		leetcode_492.py—————python编写一个函数返回给定面积的长方形长宽
 		leetcode_496.py—————python编写一个函数两个数组中"下一个更大元素"
-		leetcode_500.py—————python编写一个函数解决给定一个单词列表，只返回可以使用在键盘同一行的字母打印出来的单词。
+		leetcode_500.py—————python编写一个函数解决给定一个单词列表，只返回可以使用在键盘同一行的字母打印出来的单词
 		leetcode_501.py—————python编写一个函数找出二叉搜索树中的众数
 		leetcode_504.py—————python编写一个函数变换十进制数为7进制数
 		leetcode_507.py—————python编写一个函数给定一个 正整数 n， 如果他是完美数，返回 True，否则返回 False
