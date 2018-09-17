@@ -191,7 +191,7 @@ leetcode刷题
 		leetcode_589.py—————python编写一个函数求N叉树的前序遍历
 		leetcode_590.py—————python编写一个函数求N叉树的后序遍历
 		leetcode_594.py—————python编写一个函数求最长和谐子序列
-		leetcode_598.py—————python编写一个函数返回矩阵中含有最大整数的元素个数。
+		leetcode_598.py—————python编写一个函数返回矩阵中含有最大整数的元素个数
 		leetcode_599.py—————python编写一个函数返回两个列表的最小索引总和
 		leetcode_605.py—————python编写一个函数求种花问题
 		leetcode_606.py—————python编写一个函数根据二叉树创建字符串
@@ -205,5 +205,5 @@ leetcode刷题
 		leetcode_671.py—————python编写一个函数求二叉树中第二小的节点
 		leetcode_674.py—————python编写一个函数求最长连续递增序列
 		leetcode_680.py—————python编写一个函数求给定一个非空字符串 s，最多删除一个字符。判断是否能成为回文字符串
-		leetcode_682.py—————python编写一个函数求棒球比赛的得分。
+		leetcode_682.py—————python编写一个函数求棒球比赛的得分
 		
