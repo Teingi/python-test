@@ -198,9 +198,9 @@ leetcode刷题
 		leetcode_617.py—————python编写一个函数合并二叉树
 		leetcode_628.py—————python编写一个函数求三个数的最大乘积
 		leetcode_633.py—————python编写一个函数求平方数之和
-		leetcode_643.py—————python编写一个函数求子数组最大平均数 I。
+		leetcode_643.py—————python编写一个函数求子数组最大平均数 I
 		leetcode_645.py—————python编写一个函数求错误的集合
-		leetcode_653.py—————python编写一个函数求两数之和 IV - 输入 BST。
+		leetcode_653.py—————python编写一个函数求两数之和 IV - 输入 BST
 		leetcode_661.py—————python编写一个函数解决图片平滑器问题
 		leetcode_671.py—————python编写一个函数求二叉树中第二小的节点
 		leetcode_674.py—————python编写一个函数求最长连续递增序列
