@@ -1,4 +1,4 @@
-# leetcode 448. 找到所有数组中消失的数字
+# leetcode 448. 找到所有数组中消失的数字。
 
 class Solution(object):
     def findDisappearedNumbers(self, nums):
