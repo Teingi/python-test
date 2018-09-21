@@ -1,4 +1,4 @@
-# leetcode 41. 缺失的第一个正数
+# leetcode 41. 缺失的第一个正数。
 
 class Solution(object):
     def firstMissingPositive(self, nums):
