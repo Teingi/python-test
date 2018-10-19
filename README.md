@@ -46,6 +46,7 @@ python学习记录
 		35、snowview.py————雪景艺术绘图
 		36、python_clock.py————时钟绘制
 		36、python_girl.py————python爬取并下载美女图片存到本地硬盘
+		37、newName.py ————批量修改文件名后缀
 		
 		
 
