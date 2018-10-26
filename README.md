@@ -210,4 +210,8 @@ leetcode刷题
 		leetcode_680.py—————python编写一个函数求给定一个非空字符串 s，最多删除一个字符。判断是否能成为回文字符串
 		leetcode_682.py—————python编写一个函数求棒球比赛的得分
 		leetcode_686.py—————python编写一个函数求重复叠加字符串匹配
+		leetcode_687.py—————python编写一个函数求最长同值路径
+		leetcode_690.py—————python编写一个函数求员工的重要性
+		leetcode_693.py—————python编写一个函数求交替位二进制数
+		leetcode_695.py—————python编写一个函数求岛屿的最大面积
 		
