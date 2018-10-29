@@ -214,4 +214,6 @@ leetcode刷题
 		leetcode_690.py—————python编写一个函数求员工的重要性
 		leetcode_693.py—————python编写一个函数求交替位二进制数
 		leetcode_695.py—————python编写一个函数求岛屿的最大面积
+		leetcode_696.py—————python编写一个函数求计数二进制子串
+		leetcode_697.py—————python编写一个函数求数组的度
 		
