@@ -216,4 +216,8 @@ leetcode刷题
 		leetcode_695.py—————python编写一个函数求岛屿的最大面积
 		leetcode_696.py—————python编写一个函数求计数二进制子串
 		leetcode_697.py—————python编写一个函数求数组的度
+		leetcode_700.py—————python编写一个函数求二叉搜索树中的搜索
+		leetcode_703.py—————python编写一个函数求数据流中的第K大元素
+		leetcode_704.py—————python编写一个函数求二分查找
+		
 		
