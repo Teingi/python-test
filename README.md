@@ -219,5 +219,6 @@ leetcode刷题
 		leetcode_700.py—————python编写一个函数求二叉搜索树中的搜索
 		leetcode_703.py—————python编写一个函数求数据流中的第K大元素
 		leetcode_704.py—————python编写一个函数求二分查找
+		leetcode_705.py—————python编写一个函数求设计哈希集合
 		
 		
