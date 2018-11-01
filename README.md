@@ -220,5 +220,8 @@ leetcode刷题
 		leetcode_703.py—————python编写一个函数求数据流中的第K大元素
 		leetcode_704.py—————python编写一个函数求二分查找
 		leetcode_705.py—————python编写一个函数求设计哈希集合
+		leetcode_706.py—————python编写一个函数设计哈希映射
+		leetcode_709.py—————python编写一个函数转换成小写字母
+		
 		
 		
