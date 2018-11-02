@@ -222,6 +222,13 @@ leetcode刷题
 		leetcode_705.py—————python编写一个函数求设计哈希集合
 		leetcode_706.py—————python编写一个函数设计哈希映射
 		leetcode_709.py—————python编写一个函数转换成小写字母
+		leetcode_717.py—————python编写一个函数求1比特与2比特字符
+		leetcode_720.py—————python编写一个函数求词典中最长的单词
+		leetcode_724.py—————python编写一个函数求寻找数组的中心索引
+		leetcode_728.py—————python编写一个函数求自除数
+		leetcode_744.py—————python编写一个函数求寻找比目标字母大的最小字母
+		
+		
 		
 		
 		
