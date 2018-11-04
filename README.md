@@ -227,6 +227,8 @@ leetcode刷题
 		leetcode_724.py—————python编写一个函数求寻找数组的中心索引
 		leetcode_728.py—————python编写一个函数求自除数
 		leetcode_744.py—————python编写一个函数求寻找比目标字母大的最小字母
+		leetcode_747.py—————python编写一个函数求至少是其他数字两倍的最大数
+		leetcode_762.py—————python编写一个函数求二进制表示中质数个计算置位
 		
 		
 		
