@@ -229,6 +229,8 @@ leetcode刷题
 		leetcode_744.py—————python编写一个函数求寻找比目标字母大的最小字母
 		leetcode_747.py—————python编写一个函数求至少是其他数字两倍的最大数
 		leetcode_762.py—————python编写一个函数求二进制表示中质数个计算置位
+		leetcode_784.py—————python编写一个函数求字母大小写全排列
+		leetcode_796.py—————python编写一个函数求旋转字符串
 		
 		
 		
