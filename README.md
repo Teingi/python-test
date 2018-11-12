@@ -231,6 +231,8 @@ leetcode刷题
 		leetcode_762.py—————python编写一个函数求二进制表示中质数个计算置位
 		leetcode_784.py—————python编写一个函数求字母大小写全排列
 		leetcode_796.py—————python编写一个函数求旋转字符串
+		leetcode_806.py—————python编写一个函数求写字符串需要的行数
+		
 		
 		
 		
