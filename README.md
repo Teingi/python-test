@@ -232,6 +232,9 @@ leetcode刷题
 		leetcode_784.py—————python编写一个函数求字母大小写全排列
 		leetcode_796.py—————python编写一个函数求旋转字符串
 		leetcode_806.py—————python编写一个函数求写字符串需要的行数
+		leetcode_811.py—————python编写一个函数求子域名访问计数
+		leetcode_812.py—————python编写一个函数求最大三角形面积
+		leetcode_819.py—————python编写一个函数求最常见的单词
 		
 		
 		
