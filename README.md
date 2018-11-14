@@ -235,6 +235,9 @@ leetcode刷题
 		leetcode_811.py—————python编写一个函数求子域名访问计数
 		leetcode_812.py—————python编写一个函数求最大三角形面积
 		leetcode_819.py—————python编写一个函数求最常见的单词
+		leetcode_821.py—————python编写一个函数求字符的最短距离
+		leetcode_824.py—————python编写一个函数求山羊拉丁文
+		
 		
 		
 		
