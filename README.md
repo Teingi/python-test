@@ -237,6 +237,9 @@ leetcode刷题
 		leetcode_819.py—————python编写一个函数求最常见的单词
 		leetcode_821.py—————python编写一个函数求字符的最短距离
 		leetcode_824.py—————python编写一个函数求山羊拉丁文
+		leetcode_830.py—————python编写一个函数求较大分组的位置
+		leetcode_832.py—————python编写一个函数求翻转图像
+		leetcode_836.py—————python编写一个函数求矩形重叠
 		
 		
 		
