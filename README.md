@@ -240,6 +240,7 @@ leetcode刷题
 		leetcode_830.py—————python编写一个函数求较大分组的位置
 		leetcode_832.py—————python编写一个函数求翻转图像
 		leetcode_836.py—————python编写一个函数求矩形重叠
+		leetcode_840.py—————python编写一个函数求矩阵中的幻方
 		
 		
 		
