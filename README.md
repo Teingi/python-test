@@ -244,6 +244,14 @@ leetcode刷题
 		leetcode_844.py—————python编写一个函数求比较含退格的字符串
 		leetcode_849.py—————python编写一个函数求到最近的人的最大距离
 		leetcode_852.py—————python编写一个函数求山脉数组的峰顶索引
+		leetcode_859.py—————python编写一个函数求亲密字符串
+		leetcode_860.py—————python编写一个函数柠檬水找零
+		leetcode_867.py—————python编写一个函数求转置矩阵
+		leetcode_868.py—————python编写一个函数求二进制间距
+		leetcode_872.py—————python编写一个函数求叶子相似的树
+		leetcode_905.py—————python编写一个函数求按奇偶排序数组
+		leetcode_908.py—————python编写一个函数求最小差值 I
+		leetcode_922.py—————python编写一个函数求按奇偶排序数组 II
 		
 		
 		
