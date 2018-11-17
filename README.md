@@ -241,6 +241,10 @@ leetcode刷题
 		leetcode_832.py—————python编写一个函数求翻转图像
 		leetcode_836.py—————python编写一个函数求矩形重叠
 		leetcode_840.py—————python编写一个函数求矩阵中的幻方
+		leetcode_844.py—————python编写一个函数求比较含退格的字符串
+		leetcode_849.py—————python编写一个函数求到最近的人的最大距离
+		leetcode_852.py—————python编写一个函数求山脉数组的峰顶索引
+		
 		
 		
 		
