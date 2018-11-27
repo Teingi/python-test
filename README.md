@@ -249,6 +249,7 @@ leetcode刷题
 		leetcode_867.py—————python编写一个函数求转置矩阵
 		leetcode_868.py—————python编写一个函数求二进制间距
 		leetcode_872.py—————python编写一个函数求叶子相似的树
+		leetcode_876.py—————python编写一个函数求链表的中间结点
 		leetcode_905.py—————python编写一个函数求按奇偶排序数组
 		leetcode_908.py—————python编写一个函数求最小差值 I
 		leetcode_922.py—————python编写一个函数求按奇偶排序数组 II
