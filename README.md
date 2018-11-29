@@ -120,6 +120,7 @@ leetcode刷题
 		leetcode_088.py—————python编写一个函数合并两个有序数组
 		leetcode_101.py—————python编写一个函数判断是否对称二叉树
 		leetcode_104.py—————python编写一个函数判断平衡二叉树
+		leetcode_106.py—————python编写一个函数从中序与后序遍历序列构造二叉树
 		leetcode_107.py—————python编写一个函数二叉树的层次遍历 II
 		leetcode_108.py—————python编写一个函数二叉树将有序数组转换为二叉搜索树
 		leetcode_110.py—————python编写一个函数合并两个有序数组
