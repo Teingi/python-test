@@ -119,7 +119,8 @@ leetcode刷题
 		leetcode_083.py—————python编写一个函数删除排序链表中的重复元素
 		leetcode_088.py—————python编写一个函数合并两个有序数组
 		leetcode_101.py—————python编写一个函数判断是否对称二叉树
-		leetcode_104.py—————python编写一个函数判断平衡二叉树
+		leetcode_104.py—————python编写一个函数从前序与中序遍历序列构造二叉树
+		leetcode_105.py—————python编写一个函数判断平衡二叉树
 		leetcode_106.py—————python编写一个函数从中序与后序遍历序列构造二叉树
 		leetcode_107.py—————python编写一个函数二叉树的层次遍历 II
 		leetcode_108.py—————python编写一个函数二叉树将有序数组转换为二叉搜索树
@@ -127,6 +128,7 @@ leetcode刷题
 		leetcode_111.py—————python编写一个函数求二叉树的最小深度
 		leetcode_112.py—————python编写一个函数求二叉树路径总和
 		leetcode_118.py—————python编写一个函数运用递归思想打印杨辉三角
+		leetcode_120.py—————python编写一个函数三角形最小路径和
 		leetcode_121.py—————python编写一个函数求买卖股票的最佳时机
 		leetcode_122.py—————python编写一个函数求买卖股票的最佳时机Ⅱ
 		leetcode_125.py—————python编写一个函数 验证回文串
