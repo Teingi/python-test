@@ -1,0 +1,27 @@
+name: CI
+
+on: [push]
+
+jobs:
+  build:
+
+    runs-on: ubuntu-latest
+    
+    steps:
+    - name: KinD (Kubernetes in Docker) Action
+      uses: engineerd/setup-kind@v0.1.0
+    - name: Testing - Get Pods
+      run: |
+        export KUBECONFIG="$(kind get kubeconfig-path)"
+        kubectl cluster-info
+        kubectl get pods -n kube-system
+    - name: Testing - Create Deployment
+      run: |
+        export KUBECONFIG="$(kind get kubeconfig-path)"
+        kubectl create -f https://raw.githubusercontent.com/kubernetes/website/master/content/en/examples/controllers/nginx-deployment.yaml --record
+        kubectl get deployments
+    - name: Testing - Delete Deployment
+      run: |
+        export KUBECONFIG="$(kind get kubeconfig-path)"
+        kubectl delete -f https://raw.githubusercontent.com/kubernetes/website/master/content/en/examples/controllers/nginx-deployment.yaml
+        kubectl get deployments
