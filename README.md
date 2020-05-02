@@ -261,7 +261,7 @@ leetcode刷题
 		leetcode_922.py—————python编写一个函数求按奇偶排序数组 II
 		leetcode_929.py—————python编写一个函数求独特的电子邮件地址
 
-[博客地址：](https://blog.csdn.net/weixin_40449300)	
+[博客地址](https://blog.csdn.net/weixin_40449300)	
 		
 		
 		
